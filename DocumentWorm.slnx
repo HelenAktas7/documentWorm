@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DocumentWorm.Api/DocumentWorm.Api.csproj" />
+    <Project Path="src/DocumentWorm.Core/DocumentWorm.Core.csproj" />
+    <Project Path="src/DocumentWorm.Infrastructure/DocumentWorm.Infrastructure.csproj" />
+  </Folder>
+</Solution>
